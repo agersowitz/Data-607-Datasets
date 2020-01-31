@@ -1,2 +1,2 @@
 # Data-607-Datasets
-Repository for string datasets for download
+Repository for storing datasets for download

@@ -1,20 +1,24 @@
-<book pages="458" lang="English">
-	<title>Python Data Science Handbook: Essential Tools for Working with Data 1st Edition</title>
-	<publisher>O'Reilly Media</director>
-	<isbn13>978-1491912058</year>
-	<author>Jake VanderPlas</genre>
-</book>
-<book pages="1104" lang="English">
-	<title>Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) 1st Edition</title>
-	<publisher>The MIT Press</publisher>
-	<isbn13>978-0262018029<isbn13>
-	<author>Kevin P. Murphy</author>
-</book>
-<book pages="800" lang="English">
-	<title>Deep Learning (Adaptive Computation and Machine Learning series)</title>
-	<publisher>The MIT Press</publisher>
-	<isbn13>978-0262035613<isbn13>
-	<author>Ian Goodfellow</author>
-	<author>Yoshua Bengio</author>
-	<author>Aron Courville</author>
-</book>
+<?xml version="1.0"?>
+   <books>
+   <book pages="458" lang="English">
+      <title>Python Data Science Handbook: Essential Tools for Working with Data 1st Edition</title>
+      <publisher>O'Reilly Media</director>
+      <isbn13>978-1491912058</year>
+      <author>Jake VanderPlas</genre>
+   </book>
+   <book pages="1104" lang="English">
+      <title>Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) 1st Edition</title>
+      <publisher>The MIT Press</publisher>
+      <isbn13>978-0262018029<isbn13>
+      <author>Kevin P. Murphy</author>
+   </book>
+   <book pages="800" lang="English">
+      <title>Deep Learning (Adaptive Computation and Machine Learning series)</title>
+      <publisher>The MIT Press</publisher>
+      <isbn13>978-0262035613<isbn13>
+      <author>Ian Goodfellow</author>
+      <author>Yoshua Bengio</author>
+      <author>Aaron Courville</author>
+   </book>
+
+</books>

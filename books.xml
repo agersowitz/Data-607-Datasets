@@ -2,9 +2,9 @@
    <books>
    <book pages="458" lang="English">
       <title>Python Data Science Handbook: Essential Tools for Working with Data 1st Edition</title>
-      <publisher>O'Reilly Media</director>
-      <isbn13>978-1491912058</year>
-      <author>Jake VanderPlas</genre>
+      <publisher>O'Reilly Media</publisher>
+      <isbn13>978-1491912058</isbn13>
+      <author>Jake VanderPlas</author>
    </book>
    <book pages="1104" lang="English">
       <title>Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) 1st Edition</title>

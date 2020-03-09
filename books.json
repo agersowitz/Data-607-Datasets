@@ -1,3 +1,8 @@
 {
-	 "title": ["Python Data Science Handbook: Essential Tools for Working with Data 1st Edition","Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) 1st Edition","Deep Learning (Adaptive Computation and Machine Learning series)"]
+	 "title": ["Python Data Science Handbook: Essential Tools for Working with Data 1st Edition","Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) 1st Edition","Deep Learning (Adaptive Computation and Machine Learning series)"],
+	 "publisher": ["O'Reilly Media","The MIT Press","The MIT Press"],
+	 "isbn13": ["978-1491912058","978-0262018029","978-0262035613"],
+	 "author": ["Jake VanderPlas","Kevin P. Murphy","Ian Goodfellow, Yoshual Bengio, Aaron Courville"],
+	 "pages": ["458","1104","800"],
+	 "lang":  ["english","english","english"],
 }

@@ -5,7 +5,7 @@
 	 "isbn13": "978-1491912058",
 	 "author": "Jake VanderPlas",
 	 "pages": "458",
-	 "lang";  "english"
+	 "lang":  "english"
 	},
 	{
 	 "title": "Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) 1st Edition",
@@ -13,7 +13,7 @@
 	 "isbn13": "978-0262018029",
 	 "author": "Kevin P. Murphy",
 	 "pages": "1104",
-	 "lang";  "english"
+	 "lang":  "english"
 	},
 	{
 	 "title": "Deep Learning (Adaptive Computation and Machine Learning series)",
@@ -21,6 +21,6 @@
 	 "isbn13": "978-0262035613",
 	 "author": "Ian Goodfellow, Yoshual Bengio, Aaron Courville",
 	 "pages": "800",
-	 "lang";  "english"
+	 "lang":  "english"
 	},
 ]
